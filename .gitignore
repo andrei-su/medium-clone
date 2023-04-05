@@ -6,8 +6,8 @@
 .pnp.js
 
 # Sanity project
-/medium-clone-sanity-project
-# /medium-clone-sanity-project/node_modules
+/medium-clone-sanity-project/node_modules
+# /medium-clone-sanity-project
 
 # testing
 /coverage
